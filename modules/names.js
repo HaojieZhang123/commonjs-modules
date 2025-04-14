@@ -7,3 +7,5 @@ function fullName(firstNameVar, lastNameVar) {
     return person;
 }
 
+// export the function
+module.exports = fullName;
